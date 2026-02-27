@@ -3,12 +3,6 @@
   <h3>Computer Engineering Student</h3>
   <p>I am currently studying Computer Engineering at the University of Aveiro, with a strong interest in software engineering and data management.</p>
 
-  <br />
-
-  <img src="https://github-readme-stats-eo7j.vercel.app/api/top-langs/?username=BeatrizF26&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
-
-  <br /><br />
-
   <h3>🛠️ Tech Stack</h3>
 
   <p><b>Languages</b></p>
@@ -34,8 +28,5 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-
   <br /><br />
 </div>
-
-<br />
